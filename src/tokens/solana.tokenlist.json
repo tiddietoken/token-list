@@ -21382,4 +21382,18 @@
     "website": "https://bricks.properties",
     "instagram": "https://instagram.com/bricksproperties"
   }
-}
+},{
+  "chainId": 101,
+  "address": "4Hx6Bj56eGyw8EJrrheM6LBQAvVYRikYCWsALeTrwyRU",
+  "symbol": "TDX",
+  "name": "Tiddie Token",
+  "decimals": 9,
+  "logoURI": "https://cdn.jsdelivr.net/gh/tiddietoken/Icon2/Screenshot_20211109-102934_WhatsApp.jpg",
+  "tags": [
+	"meme-token"
+  "social-token"
+  ]
+  "version": {
+    "major": 0,
+    "minor": 3,
+    "patch": 2
